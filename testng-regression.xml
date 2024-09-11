@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sample Suite">
+    <test verbose="2" preserve-order="true" name="C:/Anand/Automation/SampleProject">
+        <classes>
+            <class name="com.tests.LoginTest"/>
+            <class name="com.tests.HomeTest"/>
+        </classes>
+    </test>
+</suite>
